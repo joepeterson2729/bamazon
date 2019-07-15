@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon homework assignment",
+  "main": "bamaCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joepeterson2729/bamazon.git"
+  },
+  "author": "joe peterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joepeterson2729/bamazon/issues"
+  },
+  "homepage": "https://github.com/joepeterson2729/bamazon#readme"
+}
